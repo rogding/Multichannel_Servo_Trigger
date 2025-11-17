@@ -1,0 +1,308 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c5e273da-72d1-4004-9913-63755c794188")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 69.85 68.58)
+		(size 25.4 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3126fae9-b4b5-41d1-ad49-eb82658ad72c")
+		(property "Sheetname" "Servo Trigger 6"
+			(at 69.85 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Trigger.kicad_sch"
+			(at 69.85 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 92.71)
+		(size 25.4 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "32fbb0a9-a933-456e-9ed9-1534a43a8b62")
+		(property "Sheetname" "Servo Trigger 2"
+			(at 27.94 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Trigger.kicad_sch"
+			(at 27.94 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 67.31)
+		(size 25.4 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6c374de2-e0c7-413d-a582-853dc7424313")
+		(property "Sheetname" "Servo Trigger 1"
+			(at 27.94 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Trigger.kicad_sch"
+			(at 27.94 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 144.78)
+		(size 25.4 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa9cfaa0-2cd4-4577-a12c-f347af55028f")
+		(property "Sheetname" "Servo Trigger 4"
+			(at 27.94 144.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Trigger.kicad_sch"
+			(at 27.94 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 170.18)
+		(size 25.4 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5f41b07-a1d7-4276-a53c-5e8c73440f62")
+		(property "Sheetname" "Servo Trigger 5"
+			(at 27.94 169.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Trigger.kicad_sch"
+			(at 27.94 184.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 41.91)
+		(size 25.4 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c7453a07-6d5b-4ce6-af05-f0959b1c6d11")
+		(property "Sheetname" "Power"
+			(at 27.94 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 27.94 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 120.65)
+		(size 25.4 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ff1b64b7-1501-4cb1-b29b-03255129f33b")
+		(property "Sheetname" "Servo Trigger 3"
+			(at 27.94 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Trigger.kicad_sch"
+			(at 27.94 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Multichannel_Servo_Trigger"
+				(path "/c5e273da-72d1-4004-9913-63755c794188"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
